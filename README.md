@@ -4,6 +4,12 @@ This project has been created for **Udacity** to complete a **Data Analyst** Nan
 
 ## About
 In this project, I analyzed **local** and **global** temperature data and compare the temperature trends where I am living to overall global temperature trends.
+
+## Project Requires:
+- Extract data from a database using a SQL query
+- Calculate a moving average in a spreadsheet
+- Create a line chart in a spreadsheet
+
 ## Steps
 - I extracted the data from the dataset on Udacity Portal. 
 -  I Downloaded the **CSV** and open it in **Excel**.

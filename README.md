@@ -3,7 +3,7 @@
 This project has been created for **Udacity** to complete a **Data Analyst** Nanodegree.
 
 ## About
-In this project, I analyzed **local** and **global** temperature data and compare the temperature trends where I am living to overall global temperature trends.
+In this project, We must analyze **local** and **global** temperature data and compare the temperature trends where I am living to overall global temperature trends.
 
 ## Project Requires:
 - Extract data from a database using a SQL query
